@@ -4,7 +4,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript and React
 - 📫 How to reach me 
-- https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+- ![image]({[(https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)})
 - https://www.facebook.com/maciej.rajtar.1/
 <figure><embed src="https://wakatime.com/share/@Rajtar/e75527df-be3a-4879-b51f-212f2b7c1ddb.svg"></embed></figure>
 
