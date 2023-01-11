@@ -1,4 +1,4 @@
-![Untitled](https://user-images.githubusercontent.com/89586853/211857625-c831eb3a-3b77-4c49-97b0-14b0f0ddffe5.svg)
+
 [![wakatime](https://wakatime.com/badge/user/a5e61b70-7994-4c85-80bd-7e4a70684a9d.svg)](https://wakatime.com/@a5e61b70-7994-4c85-80bd-7e4a70684a9d)
 
 - 👋 Hi, I’m @rajmac93
