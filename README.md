@@ -1,7 +1,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/a5e61b70-7994-4c85-80bd-7e4a70684a9d.svg)](https://wakatime.com/@a5e61b70-7994-4c85-80bd-7e4a70684a9d)
 
-# Hi! My name is Maciej, and i'm still growing up programmer using ReactJS library
+# Hi! My name is Maciej, and i'm still growing up as programmer using ReactJS library
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/rajmac93#4131) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maciej.rajtar.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rajmacc/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maciej-rajtar-854066180) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rajtar_maciej) 
